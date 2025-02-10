@@ -1,1 +1,1 @@
-### Arithmetic operations, broadcasting and comparison
+### Assignment 2 - Numpy Array Operations
